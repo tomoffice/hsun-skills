@@ -1,0 +1,12 @@
+{
+  "name": "hsun-skills",
+  "owner": { "name": "hsun" },
+  "description": "hsun 的個人 Claude Code skills / plugins",
+  "plugins": [
+    {
+      "name": "commit-flow",
+      "source": "./plugins/commit-flow",
+      "description": "以 Conventional Commits + Git Flow 分支保護規則產生 commit 並提交"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "commit-flow",
+  "description": "以 Conventional Commits + Git Flow 分支保護規則產生 commit 並提交",
+  "version": "1.0.0",
+  "author": { "name": "hsun" }
+}
