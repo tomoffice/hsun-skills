@@ -7,7 +7,7 @@ hsun 的個人 [Claude Code](https://code.claude.com) plugin marketplace。
 在任何裝有 Claude Code 的機器上:
 
 ```
-/plugin marketplace add <你的GitHub帳號>/hsun-skills
+/plugin marketplace add https://github.com/tomoffice/hsun-skills
 /plugin install commit-flow@hsun-skills
 ```
 
